@@ -1,0 +1,2 @@
+# ClipboardMan
+Clipboard Management Utility
