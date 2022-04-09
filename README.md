@@ -1,6 +1,9 @@
+
 # CLIPBOARD MANAGEMENT UTILITY
 - Program was written with C/C++ and MFC Framework
 - No GPL code
+
+![Screenshot](https://github.com/happyjongsoft/ClipboardMan/blob/master/ClipMan/Screenshot_ClipboardMan.png?raw=true)
 
 ## Features
 
